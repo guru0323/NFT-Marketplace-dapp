@@ -131,7 +131,7 @@ There are some things to be done in the project:
 
 ## :page_with_curl: License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
+This project is under the **MIT license**. See the [LICENSE](https://github.com/blackhorse0323/NFT-Marketplace-dapp/blob/master/LICENSE) for more information.
 
 
 ## :mailbox_with_mail: Get in touch!
